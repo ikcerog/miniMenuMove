@@ -1,0 +1,1 @@
+jQuery(' .sibling-article-column ').insertBefore(' .breadcrumbs-container ');
